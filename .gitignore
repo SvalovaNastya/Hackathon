@@ -1,0 +1,7 @@
+bin
+obj
+[Dd]ebug
+*.suo
+*.user
+_ReSharper.*
+desktop.ini
